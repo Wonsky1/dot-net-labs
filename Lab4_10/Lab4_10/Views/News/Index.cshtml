@@ -1,0 +1,49 @@
+@model IndexModel
+@{
+    ViewData["Title"] = "News Page";
+}
+
+<h1>Сторінка Новин</h1>
+
+<form class="form-inline mb-3" asp-action="Search" method="post">
+    <label class="mr-2">Пошук за:</label>
+    <select class="form-control mr-2" name="select" asp-for="SelectedOption">
+        <option value="all"> Всі </option>
+        <option value="title"> Рубрикою </option>
+        <option value="author">Автором</option>
+        <option value="category">Категорією</option>
+        <option value="date">Датою</option>
+    </select>
+    <input class="form-control mr-2" type="text" placeholder="Введіть текст для пошуку" name="value"
+           asp-for="Value" value="@Model.Value"/>
+    <button class="btn btn-primary" type="submit">Пошук</button>
+</form>
+
+@if (User.Identity!.IsAuthenticated)
+{
+    <a class="btn btn-success w-100 mb-3" href="/add">Додати новину</a>
+}
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Назва</th>
+        <th>Контент</th>
+        <th>Автор</th>
+        <th>Категорія</th>
+        <th>Дата</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var news in Model.News)
+    {
+        <tr>
+            <td>@news.Title</td>
+            <td>@news.Content</td>
+            <td>@news.Author.Name</td>
+            <td>@news.Category.Name</td>
+            <td>@news.PublishedDate.ToShortDateString()</td>
+        </tr>
+    }
+    </tbody>
+</table>
