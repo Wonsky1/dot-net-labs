@@ -1,0 +1,15 @@
+/Users/maxzel/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1
+/Users/maxzel/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.deps.json
+/Users/maxzel/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.runtimeconfig.json
+/Users/maxzel/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.dll
+/Users/maxzel/RiderProjects/Lab1/Lab1/bin/Debug/net7.0/Lab1.pdb
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.csproj.AssemblyReference.cache
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfoInputs.cache
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfo.cs
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.dll
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/refint/Lab1.dll
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.pdb
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/Lab1.genruntimeconfig.cache
+/Users/maxzel/RiderProjects/Lab1/Lab1/obj/Debug/net7.0/ref/Lab1.dll

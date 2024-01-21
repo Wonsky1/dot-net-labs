@@ -1,0 +1,14 @@
+/Users/maxzel/RiderProjects/Lab3_10/DAL/bin/Debug/net7.0/DAL.deps.json
+/Users/maxzel/RiderProjects/Lab3_10/DAL/bin/Debug/net7.0/DAL.runtimeconfig.json
+/Users/maxzel/RiderProjects/Lab3_10/DAL/bin/Debug/net7.0/DAL.dll
+/Users/maxzel/RiderProjects/Lab3_10/DAL/bin/Debug/net7.0/DAL.pdb
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.dll
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/refint/DAL.dll
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.pdb
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/DAL.genruntimeconfig.cache
+/Users/maxzel/RiderProjects/Lab3_10/DAL/obj/Debug/net7.0/ref/DAL.dll
